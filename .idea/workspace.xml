@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67a61e81-162d-4411-a8a6-f2b9052799ae" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/BowlingGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BowlingGameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Game.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,11 +41,17 @@
       <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="173">
+              <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
               <folding>
                 <element signature="e#123#124#0" expanded="true" />
                 <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
+                <element signature="e#896#897#0" expanded="true" />
+                <element signature="e#943#944#0" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
+                <element signature="e#1030#1031#0" expanded="true" />
+                <element signature="e#1082#1083#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,8 +73,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Game.java" />
         <option value="$PROJECT_DIR$/src/main/java/BowlingGameTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Game.java" />
       </list>
     </option>
   </component>
@@ -257,7 +263,7 @@
       <updated>1526246072183</updated>
       <workItem from="1526246074207" duration="3604000" />
       <workItem from="1526407333659" duration="593000" />
-      <workItem from="1526587907751" duration="1894000" />
+      <workItem from="1526587907751" duration="2387000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1526247862111</created>
@@ -413,13 +419,24 @@
       <option name="project" value="LOCAL" />
       <updated>1526589701297</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Twenty third Commit">
+      <created>1526589824517</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1526589824517</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Twenty fourth Commit">
+      <created>1526589985826</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1526589985826</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BowlingGameTest - 2018.05.14 at 00h 12m 06s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BowlingGameTest - 2018.05.14 at 00h 13m 58s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
@@ -447,9 +464,12 @@
     <history-entry file="BowlingGameTest - 2018.05.17 at 22h 43m 28s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BowlingGameTest - 2018.05.17 at 22h 46m 05s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6091000" />
+    <option name="totallyTimeSpent" value="6584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="633" y="0" width="653" height="687" extended-state="0" />
@@ -514,7 +534,9 @@
     <MESSAGE value="Twentieth Commit" />
     <MESSAGE value="Twenty first Commit" />
     <MESSAGE value="Twenty second Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Twenty second Commit" />
+    <MESSAGE value="Twenty third Commit" />
+    <MESSAGE value="Twenty fourth Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Twenty fourth Commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/BowlingGameTest.java">
@@ -531,6 +553,12 @@
           <folding>
             <element signature="e#123#124#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -549,6 +577,12 @@
           <folding>
             <element signature="e#123#124#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -562,11 +596,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="173">
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
           <folding>
             <element signature="e#123#124#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
           </folding>
         </state>
       </provider>
